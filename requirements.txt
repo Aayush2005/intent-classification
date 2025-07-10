@@ -1,0 +1,12 @@
+git+https://github.com/PrithivirajDamodaran/Parrot_Paraphraser.git
+transformers
+sentencepiece
+torch
+nltk
+pandas
+spacy
+datasets
+scikit-learn
+tqdm
+numpy
+evaluate
